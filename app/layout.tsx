@@ -6,8 +6,8 @@ const sans = Geist({ subsets: ['latin'], variable: '--font-sans' });
 const mono = Geist_Mono({ subsets: ['latin'], variable: '--font-mono' });
 
 export const metadata: Metadata = {
-  title: 'Poster Wall',
-  description: 'Poster previews at real print proportions.',
+  title: 'SSU Archives',
+  description: 'SSU Work previews.',
 };
 
 export const viewport: Viewport = { width: 'device-width', initialScale: 1, viewportFit: 'cover' };
